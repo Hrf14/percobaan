@@ -1,4 +1,1 @@
-lorem ipsum hud yugh laoi jau gutsysiand nuo molau nahu
-lorem ipsum kodu kalo sjau fkslao cmsndu
-lorem ipsum kakdsjiai kao aki akaka moni molina
-menambah lorem ipsum ke 5 dan menghapus ke 4
+cout<<"hello world";
